@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheRealRPI
 - 👀 I’m interested in Pen&Paper RPG, Boardgames
-- 🌱 I’m currently learning Symfony 5
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on a virtual galery
 - 📫 How to reach me ...
 
